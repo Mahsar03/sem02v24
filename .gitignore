@@ -1,1 +1,2 @@
-
+$ gcc -o reverse reverse.c
+$ ./reverse.c
